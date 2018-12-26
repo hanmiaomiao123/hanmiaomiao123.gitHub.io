@@ -56,10 +56,13 @@ $ hexo server         #运行本地服务
 ```
 5. 发布到Github
 ```
-hexo clean && hexo g && hexo d
+$ hexo clean && hexo g && hexo d
 ```
 第一次发布需要验证github账号(username,password)   
 直到出现Info Deploy done:git  # 表示发布完成
 6. 测试访问
 浏览器输入https://hanmiaomiao123/hanmiaomiao123.github.io/
+7. 更新发布内容
+$ hexo clean && hexo g && hexo d   #Run again
+
 
