@@ -80,3 +80,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/hanmiaomiao123/hanmiaomiao123.github.io.git
+branch: master

@@ -54,6 +54,7 @@ $ hexo server         #运行本地服务
 ```
  $ npm install hexo-deployer-git  --save
 ```
+hexo d 上传文件
 5. 发布到Github
 ```
 $ hexo clean && hexo g && hexo d
