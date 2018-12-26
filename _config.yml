@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My first Blog
+title: My First Blog
 subtitle:
 description:
 keywords:
@@ -79,4 +79,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hanmiaomiao123/hanmiaomiao123.gitHub.io.git
+  repo: https://github.com/hanmiaomiao123/hanxiaoling.gitHub.io.git
