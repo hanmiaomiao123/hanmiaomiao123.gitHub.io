@@ -63,7 +63,11 @@ $ hexo clean && hexo g && hexo d
 直到出现Info Deploy done:git  # 表示发布完成
 6. 测试访问
 浏览器输入https://hanmiaomiao123/hanmiaomiao123.github.io/
-7. 更新发布内容
+7. 更新发布内容  
+```
 $ hexo clean && hexo g && hexo d   #Run again
+```
+#### endend
+
 
 
